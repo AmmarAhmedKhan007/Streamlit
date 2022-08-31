@@ -1,0 +1,6 @@
+http://localhost:8501streamlit
+numpy
+pandas
+matplotlib
+seaborn
+plotly
